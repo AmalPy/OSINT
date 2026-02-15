@@ -25,5 +25,5 @@ This project displays OSINT categories in a collapsible tree structure, allowing
 
 ---
 
-## 📂 Project Structure
+
 
